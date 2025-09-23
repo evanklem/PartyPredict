@@ -3,7 +3,7 @@
 Naive Bayes survey-based classifier that predicts political party affiliation from responses before the survey ends.
 
 ## Overview
-PartyPredict is a Java application that collects survey responses, stores them in CSV format, and trains a Naive Bayes classifier to infer political party. It evaluates predictions with accuracy, precision, recall, and F1 scores, and improves as new data is added.
+PartyPredict is a Java application that collects survey responses, stores them in CSV format, and trains a Naive Bayes classifier to infer political party. It evaluates predictions with accuracy, precision, recall, and F1 scores, and improves as new data is added. Created to understand basic artificial intelligence.
 
 ## What I Learned
 - Designing clear, unbiased survey questions.  
